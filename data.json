@@ -1,0 +1,5 @@
+{
+    "accelerometer": [2, 0, 30],
+    "magnetometer": [21, 3, 87],
+    "gyroscope": [36, 52, 68]
+}
